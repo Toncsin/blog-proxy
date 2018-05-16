@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    overflow-x: hidden;
+}
+#banner{
+    margin-top: 50px;
+}
+.banner-img{
+    width:100%;
+}
+.essay{
+  background:#f5f1f1;
+  height:800px;
+  margin-top:20px;
+  margin-bottom:50px;
+  padding-right: 8%;
+}
+.essay-show{
+    height:400px;
+}
+.essay-show img{
+  width:100%;
+  height:300px;
+}
+.article-show{
+    height:500px;
+}
+.article-show img{
+  width:100%;
+  height:300px;
+}
+.diary{
+    margin-top:50px;
+    padding: 0 30px;
+}
+.diary>div{
+    height:500px;
+}
+.diary-text img{
+    width:100%;
+    height:300px;
+}
+.left-bar{
+}
+.profile_img {
+    width: 70%;
+    background: #fff;
+    z-index: 1000;
+    position: inherit;
+    margin-top: 20px;
+    padding: 4px
+}
+.profile_info {
+    padding: 0 10px 10px;
+}
+.profile_info span {
+    font-size: 13px;
+    line-height: 30px;
+    color: #BAB8B8
+}
+.profile_info h2 {
+    font-size: 15px;
+    color: rgb(75, 201, 233);
+    margin: 0;
+    font-weight: 300
+}
+.right-box{
+    height:600px;
+    padding:0;
+}
